@@ -1,4 +1,4 @@
 ,Min,Median,Mean,Max,Std
-$/Txn_variation,0.11,0.93,1.11,2.55,0.48
-$/Buyer_variation,0.34,0.99,1.15,2.81,0.48
+$/Txn_variation,0.12,0.94,1.11,2.55,0.49
+$/Buyer_variation,0.34,0.99,1.16,2.82,0.48
 Txn/Buyer_variation,0.87,1.01,1.09,2.94,0.33
