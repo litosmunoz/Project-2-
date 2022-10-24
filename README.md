@@ -11,7 +11,7 @@ As everyone knows, the NFT market has experienced a decline over the last months
 
 ### Cleaning Conclusion:
 Focus: 
-Top 100 collections that managed to remain in the top 100 since Nov 21 until now, as those are the supposed to be the less risky investment and more resilient to market conditions.
+Top 100 collections that managed to remain in the top 100 since Nov 21 until now, as those are supposed to be the less risky investment and more resilient to market conditions.
 
 Main KPIs studied: 
 - Sales in USD/Txn Variation	
