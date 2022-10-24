@@ -6,8 +6,8 @@
 ### Description
 As everyone knows, the NFT market has experienced a decline over the last months, Dropping floor prices and increasing sell pressure has been the overall trend. For this project, I selected a data set of the top 250 NFT Collections ordered by USD sales, from November 2021. I will use an API to compare the top 100 collections from then, to the actual ranking. I will explore the distribution of collections between blockchains and use KPIs to evaluate their development and resiliency. The next two images represent the evolution of floor prices and sales volume of two 'blue chip' collections (Cool Cats and Bored Ape Yatch Club, respectively). This is just to show some facts of the downward trend.
 
-<img src="images/Facts/Evolution of Floor Price (Cool Cats).png" width="1440" height="600">
-<img src="images/Facts/Sales Volume by Sell Type (Bored Ape Yatch Club).png" width="1600" height="400">
+<img src="images/Facts/Evolution of Floor Price (Cool Cats).png" width="1840" height="700">
+<img src="images/Facts/Sales Volume by Sell Type (Bored Ape Yatch Club).png" width="2500" height="280">
 
 ### Cleaning Conclusion:
 Focus: 
@@ -27,7 +27,7 @@ Shown by the mean being > 1.
 
 Although values have a quite high standard deviation, the median suggests that ratios have remained constant, which is quite impressive taking into account market conditions. We need to consider that this sample contains mainly ethereum projects, so it may be a bit biased for the rest of blockchains.
 
-<img src="images/Results/Ratios.png" width="1000" height="400">
+<img src="images/Results/Ratios.png" width="2000" height="200">
 
 
 ### Visualization Conclusion:
